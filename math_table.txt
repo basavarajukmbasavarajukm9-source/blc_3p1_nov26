@@ -1,0 +1,5 @@
+import sys
+
+input_number = int(sys.avgv[1])
+
+for i in range
